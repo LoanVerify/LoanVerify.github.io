@@ -1,0 +1,12 @@
+body{
+	margin: auto;
+	width: 500px;
+	background-color: #F0000}
+
+
+h1, h2, p {
+		color:red;
+}
+p{background-color: #000000;}
+p{font-family: "Arial", sans-serif;}
+p{font-size:100%;}
